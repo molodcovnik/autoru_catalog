@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <mark name="Thairung">
+        <code>THAIRUNG</code>
+        <folder name="Transformer, II" id="23666273">
+            <model>TRANSFORMER</model>
+            <generation id="23666273">23666273</generation>
+            <modification name="2.8d MT (177 л.с.) 4WD" id="23740119">
+                <mark_id>Thairung</mark_id>
+                <folder_id>Transformer, II</folder_id>
+                <modification_id>2.8d MT (177 л.с.) 4WD</modification_id>
+                <configuration_id>23666320</configuration_id>
+                <tech_param_id>23740119</tech_param_id>
+                <body_type>Внедорожник 5 дв.</body_type>
+                <years>2019 - 2021</years>
+                <complectations></complectations>
+            </modification>
+    </mark>
+</catalog>
